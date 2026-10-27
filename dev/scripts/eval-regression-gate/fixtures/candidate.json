@@ -1,0 +1,8 @@
+{
+  "runs": [
+    { "runId": "c1", "scenarioId": "checkout", "metrics": { "faithfulness": 0.9, "answer_relevancy": 0.85, "latency_ms": 830 } },
+    { "runId": "c2", "scenarioId": "checkout", "metrics": { "faithfulness": 0.88, "answer_relevancy": 0.83, "latency_ms": 870 } },
+    { "runId": "c3", "scenarioId": "refunds", "metrics": { "faithfulness": 0.71, "answer_relevancy": 0.79, "latency_ms": 600 } },
+    { "runId": "c4", "scenarioId": "refunds", "metrics": { "faithfulness": 0.73, "answer_relevancy": 0.77, "latency_ms": 610 } }
+  ]
+}
